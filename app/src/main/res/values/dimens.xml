@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="search_height">44dp</dimen>
+    <dimen name="search_height">46dp</dimen>
     <dimen name="text8">8sp</dimen>
     <dimen name="text16">16sp</dimen>
     <dimen name="text22">22sp</dimen>

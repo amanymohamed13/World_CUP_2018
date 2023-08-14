@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="@dimen/search_height"
         android:layout_margin="@dimen/margin24"
-        android:autofillHints=""
+        android:autofillHints=" "
         android:drawableStart="@drawable/baseline_search_24"
         android:drawablePadding="@dimen/padding8"
         android:background="@drawable/search_bar"
@@ -24,7 +24,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:navigationIconTint="@color/light_gray"
         app:strokeColor="@color/light_gray"
-        tools:ignore="SpeakableTextPresentCheck,TextFields,TouchTargetSizeCheck,TextContrastCheck" />
+        tools:ignore="SpeakableTextPresentCheck,TextFields,TouchTargetSizeCheck,TextContrastCheck,VisualLintTextFieldSize" />
 
     <TextView
         android:id="@+id/match_details"
@@ -190,7 +190,6 @@
         app:layout_constraintBottom_toBottomOf="@+id/match_statistic"
         app:layout_constraintEnd_toStartOf="@+id/match_statistic"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/match_statistic"
         app:srcCompat="@drawable/arrow_left"
         android:contentDescription="@string/todo"
         tools:ignore="ContentDescription" />
@@ -203,7 +202,6 @@
         app:layout_constraintBottom_toBottomOf="@+id/match_statistic"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/match_statistic"
-        app:layout_constraintTop_toTopOf="@+id/match_statistic"
         app:srcCompat="@drawable/arrow_right"
         android:importantForAccessibility="no" />
 
