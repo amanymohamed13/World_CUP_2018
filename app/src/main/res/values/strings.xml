@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">World CUP 2018</string>
-    <string name="madrid">Madrid</string>
+    <string name="liverpool">Liverpool</string>
     <string name="score_separator">-</string>
     <string name="match_date">27 Aug 22</string>
     <string name="search">Search</string>
     <string name="match_details">Match Details</string>
     <string name="match_statistic">Match Statistic</string>
     <string name="_5">5</string>
-    <string name="Barcelona">Barcelona</string>
+    <string name="chelsea">Chelsea</string>
     <string name="half_time_goals">Half-Time Goals</string>
     <string name="_6">6</string>
     <string name="_0">0</string>

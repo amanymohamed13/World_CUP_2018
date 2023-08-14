@@ -11,8 +11,6 @@ object Constants {
         const val Away_TEAM_HALF_TIME_GOALS = 8
         const val HOME_TEAM_SHOTS = 11
         const val Away_TEAM_SHOTS = 12
-        const val HOME_TEAM_SHOTS_ON_TARGET = 13
-        const val Away_TEAM_SHOTS_ON_TARGET = 14
         const val HOME_TEAM_FOULS = 15
         const val Away_TEAM_FOULS = 16
         const val HOME_TEAM_CORNERS = 17

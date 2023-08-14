@@ -70,7 +70,7 @@
                     android:layout_width="@dimen/padding64"
                     android:layout_height="@dimen/margin64"
                     android:layout_gravity="center"
-                    android:src="@drawable/team"
+                    android:src="@drawable/liverpool"
                     app:shapeAppearanceOverlay="@style/Widget" />
 
                 <TextView
@@ -78,7 +78,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:text="@string/madrid"
+                    android:text="@string/liverpool"
                     android:textSize="@dimen/text16"
                     android:textStyle="bold" />
             </LinearLayout>
@@ -154,7 +154,7 @@
                     android:layout_height="@dimen/margin64"
                     android:layout_gravity="center"
                     android:scaleType="center"
-                    android:src="@drawable/barcelona"
+                    android:src="@drawable/chelsea"
                     app:shapeAppearanceOverlay="@style/Widget" />
 
                 <TextView
@@ -162,7 +162,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:text="@string/Barcelona"
+                    android:text="@string/chelsea"
                     android:textSize="@dimen/text16"
                     android:textStyle="bold" />
             </LinearLayout>
