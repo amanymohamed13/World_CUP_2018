@@ -12,19 +12,16 @@
     </style>
 
 
-
-
     <style name="second_linear_layout">
         <item name="android:layout_marginBottom">@dimen/margin16</item>
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">@dimen/margin32</item>
         <item name="android:gravity">center</item>
-        <item name="android:orientation">horizontal</item>
         <item name="android:weightSum">2</item>
         <item name="android:layout_weight">1</item>
     </style>
 
-    <style name="firstSecondaryLinearlayouts">
+    <style name="First_Linearlayouts">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textColor">@color/secondary_black_87</item>
@@ -33,7 +30,7 @@
         <item name="android:layout_weight">0.5</item>
     </style>
 
-    <style name="secondSecondaryLinearlayouts">
+    <style name="Secondary_Linearlayouts">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textColor">@color/dark_gray</item>
@@ -42,7 +39,7 @@
     </style>
 
 
-    <style name="thirdSecondaryLinearlayouts">
+    <style name="Third_Linearlayouts">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textColor">@color/secondary_black_87</item>
